@@ -1,6 +1,6 @@
 ---
 title: Meneropong Bayangan Gelap di Balik Kebebasan Pers dan Demokrasi Indonesia 2024
-published: 2024-05-01
+published: 2025-05-01
 description: Laporan Indeks Keselamatan Jurnalis 2024 mengungkap ancaman serius terhadap kebebasan pers di Indonesia, dengan buzzer politik dan ormas sebagai aktor dominan.
 image: ./cover.jpeg
 tags: ["Jurnalisme", "Kebebasan Pers", "Demokrasi", "Indonesia"]
