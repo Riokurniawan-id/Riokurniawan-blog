@@ -17,7 +17,7 @@ draft: false
 Program Studi Teknik Informatika, Fakultas Ilmu Komputer  
 Institut Informatika dan Bisnis Darmajaya
 
-[📄 Unduh artikel lengkap .PDF](/files/artikel-pers.pdf)
+[📄 Unduh artikel lengkap .PDF](/files/artikel_pers.pdf)
 
 ---
 
